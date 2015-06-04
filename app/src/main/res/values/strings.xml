@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tempo Hoje</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_tittle">Ops,desculpe</string>
+    <string name="error_message">Ocorreu um erro, tente novamente</string>
+    <string name="error_ok_button">Ok</string>
+    <string name="internet_desabilitada_message">Internet Desativada!</string>
+
+</resources>
